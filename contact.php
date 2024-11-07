@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>お問い合わせ | サンプル株式会社</title>
+    <title>お問い合わせ | サコス株式会社</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.6.1/dist/full.css" rel="stylesheet" type="text/css">
     <script src="https://cdn.tailwindcss.com/3.4.1"></script>
 </head>
