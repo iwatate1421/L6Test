@@ -15,7 +15,7 @@
         <div id="wrapper">
             <div class="text-center m-4">
             <!-- 「戻る」ボタンを紫色にする設定を追加 -->
-            <a href="contact.php" class="btn normal-case bg-blue-600 hover:bg-blue-900 text-white">お問合せボタン</a>
+            <a href="./contact.php" class="btn normal-case bg-blue-600 hover:bg-blue-900 text-white">お問合せボタン</a>
         </div>
         </div>
     </body>

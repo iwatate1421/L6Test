@@ -107,7 +107,7 @@
 
         <div class="text-center m-4">
             <!-- 「戻る」ボタンを紫色にする設定を追加 -->
-            <a href="contact.php" class="btn normal-case bg-blue-600 hover:bg-blue-900 text-white">戻る</a>
+            <a href="./index.php" class="btn normal-case bg-blue-600 hover:bg-blue-900 text-white">戻る</a>
         </div>
     </div>
     <footer class="text-center pt-3 border-top">
